@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Computer from "bitcoin-computer";
+import { Computer } from "bitcoin-computer-lib";
 import "./App.css";
 
 function App() {
@@ -14,7 +14,9 @@ function App() {
       setComputer(
         new Computer({
           seed: seed, //describe install ostrich blast region era course junior feed acoustic galaxy annual
-          chain: "BSV",
+          chain: "LTC",
+          network: "regtest",
+          url: "http://127.0.0.1:3000",
         })
       );
     }
