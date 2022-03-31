@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d15cf05effd1a550715f1c5995b2125",
+    "revision": "a78d615e28776024510540d171f5cf85",
     "url": "/react-bitcoin-wallet/index.html"
   },
   {
-    "revision": "fc1707858b2226ab6594",
+    "revision": "59616862b2bdb1d62097",
     "url": "/react-bitcoin-wallet/static/css/main.07326a6b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-bitcoin-wallet/static/js/2.ce6225b6.chunk.js"
   },
   {
-    "revision": "fc1707858b2226ab6594",
-    "url": "/react-bitcoin-wallet/static/js/main.a1347d2c.chunk.js"
+    "revision": "59616862b2bdb1d62097",
+    "url": "/react-bitcoin-wallet/static/js/main.433d501d.chunk.js"
   },
   {
     "revision": "e3eb15e1566615e0de83",
