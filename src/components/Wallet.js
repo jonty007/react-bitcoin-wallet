@@ -26,7 +26,7 @@ export default function Wallet() {
         new Computer({
           seed: seed, //describe install ostrich blast region era course junior feed acoustic galaxy annual
           chain: "LTC",
-          network: "regtest",
+          network: "testnet",
         })
       );
     }
